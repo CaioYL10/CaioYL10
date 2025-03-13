@@ -70,13 +70,13 @@
 
 
 
-<details open> 
+<details closed> 
   <summary><h2>Linguagens de Programação 💻</h2></summary>
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Ainda+no+processo+de+aprendizagem+%F0%9F%93%9A;Em+breve+%E2%8F%B3)](https://git.io/typing-svg)
 </details>
 
-<details open> 
+<details closed> 
   <summary><h2>Local de Estudo 🏫</h2></summary>
 
   
