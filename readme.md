@@ -1,15 +1,14 @@
 # 🪐 Perseu d Saturno
+</div>
 
-**`Estudante de Desenvolvimento de Sistemas`**
+# **`Estudante de Desenvolvimento de Sistemas`**
 
-Sou um estudante do 2ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118
+#### **📚 Sou um estudante do 2ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118 📚**
 
-Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível.
+#### 🚀 Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível 🚀
 
-Follow in Instagram "[@caioxyl]".
 
-<div align="center">
-<img src="https://imgur.com/aiKv1MR" width="700px" />
+<img src="https://i.imgur.com/aiKv1MR.jpeg" width="200px" />
 </div>
 
 <p align="left">
@@ -31,15 +30,22 @@ Follow in Instagram "[@caioxyl]".
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/raulportolopes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/CaioYL10?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/CaioYL10?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/raulportolopes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/CaioYL10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
+    <a href="https://github.com/CaioYL10?tab=followers">
+        <img 
+            alt="Instagram" 
+            title="Me siga no instagram" 
+            src="https://i.imgur.com/NT17Dki.png" width="28px"
+             />
     </a>
 </p>
 
@@ -47,5 +53,5 @@ Follow in Instagram "[@caioxyl]".
 ---
 
 ### 🤖 Linguagens e Tecnologias
-Ainda em Estudo 🪐
+#### **Ainda em processo de aprendizagem** 🪐
 
