@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/aiKv1MR.jpeg" width="200px" />
 </div>
 
-<p align="left">
+<p align="center">
     <a href="">
         <img 
             alt="Linkedins" 
@@ -35,7 +35,7 @@
           </a>
 </p>
 
-<p align="left">        
+<p align="center">        
 </a>
     <a href="https://github.com/CaioYL10?tab=followers">
         <img 
