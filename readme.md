@@ -11,6 +11,11 @@
 <img src="https://i.imgur.com/aiKv1MR.jpeg" width="200px" />
 </div>
 
+
+---
+
+
+
 <p align="center">
     <a href="">
         <img 
@@ -63,5 +68,36 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+
+
+<details open> 
+  <summary><h2>Linguagens de Programação 💻</h2></summary>
+
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Ainda+no+processo+de+aprendizagem+%F0%9F%93%9A;Em+breve+%E2%8F%B3)](https://git.io/typing-svg)
+</details>
+
+<details open> 
+  <summary><h2>Local de Estudo 🏫</h2></summary>
+
+  
+ ---
+
+
+ 
+<a href="https://www.google.com.br/maps/place/Escola+SENAI+A.+Jacob+Lafer/@-23.6663728,-46.5192183,19z/data=!3m1!4b1!4m6!3m5!1s0x94ce69d619d62a27:0x41f94d2be4af4536!8m2!3d-23.6663728!4d-46.5185746!16s%2Fg%2F1tfqbc0l?entry=ttu&g_ep=EgoyMDI1MDMxMC4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">
+        <img 
+            alt="Local" 
+            title="Localização" 
+            src="https://i.imgur.com/H92VTrc.png" width="300px"
+        />
+          </a>
+</p>
+
+
+---
+
+
+
+  
+    
+     
