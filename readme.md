@@ -1,6 +1,6 @@
 # 🪐 Perseu d Saturno
 
-**`Desenvolvedor FullStack`**
+**`Estudante de Desenvolvimento de Sistemas`**
 
 I am an 👨🏽‍🏫 Educator in Technology who Thrives through Learning and Teaching 🚀
 
