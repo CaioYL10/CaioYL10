@@ -1,9 +1,9 @@
-# 🪐 Perseu d Saturno
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=CaioYL10+%F0%9F%AA%90;Seja+Bem+Vindo+!)](https://git.io/typing-svg)
 </div>
 
 # **`Estudante de Desenvolvimento de Sistemas`**
 
-#### **📚 Sou um estudante do 2ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118 📚**
+#### **📚 Sou um estudante do 2 ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118 📚**
 
 #### 🚀 Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível 🚀
 
@@ -19,7 +19,7 @@
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="">
+    <a href="https://www.google.com.br/maps/place/Escola+SENAI+A.+Jacob+Lafer/@-23.6663728,-46.5211495,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce69d619d62a27:0x41f94d2be4af4536!8m2!3d-23.6663728!4d-46.5185746!16s%2Fg%2F1tfqbc0l?entry=ttu&g_ep=EgoyMDI1MDMxMC4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">
         <img 
             alt="Local" 
             title="Localização" 
@@ -53,5 +53,5 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-#### **Ainda em processo de aprendizagem** 🪐
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ainda+em+processo+de+aprendizagem+%F0%9F%93%9A;Em+breve+%E2%8F%B3)](https://git.io/typing-svg)
 
