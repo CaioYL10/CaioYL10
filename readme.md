@@ -23,14 +23,14 @@ Follow in Instagram "[@caioxyl]".
             src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge&logo=location&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/raulportolopes?tab=repositories&sort=stargazers">
+    <a href="https://github.com/CaioYL10?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/raulportolopes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/CaioYL10">
+    <a href="https://github.com/CaioYL10?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
