@@ -43,7 +43,7 @@ Follow in Instagram "[@caioxyl]".
 ---
 
 ### 🤖 Linguagens e Tecnologias
-Ainda em Andamento
+Ainda em Estudo 🪐
 
 ### 📊 Estatísticas
 
