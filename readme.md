@@ -32,7 +32,11 @@
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/CaioYL10?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
+          </a>
+</p>
+
+<p align="left">        
+</a>
     <a href="https://github.com/CaioYL10?tab=followers">
         <img 
             alt="Seguidores" 
