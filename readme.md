@@ -8,9 +8,9 @@ Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possíve
 
 Follow in Instagram "[@caioxyl]".
 
-div align="center"
-img src="https://desblogada.files.wordpress.co..." width="0px" /
-/div
+<div align="center">
+<img src="https://imgur.com/aiKv1MR" width="700px" />
+</div>
 
 <p align="left">
     <a href="">
