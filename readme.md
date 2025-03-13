@@ -2,52 +2,14 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-# Carregar a imagem
-img = Image.open('path/to/your/image.jpg')
-
-# Redimensionar a imagem
-width, height = img.size
-aspect_ratio = height/width
-new_width = 100
-new_height = int(aspect_ratio * new_width * 0.55)
-img = img.resize((new_width, new_height))
-img = img.convert('L')  # Convertendo para escala de cinza
-
-# Mapear pixels para caracteres
-pixels = img.getdata()
-chars = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
-new_pixels = [chars[pixel//25] for pixel in pixels]
-new_pixels = ''.join(new_pixels)
-
-# Dividir o string de pixels em linhas
-new_pixels_count = len(new_pixels)
-ascii_image = [new_pixels[index:index + new_width] for index in range(0, new_pixels_count, new_width)]
-ascii_image = "\n".join(ascii_image)
-
-# Salvar o resultado em um arquivo
-with open("ascii_image.txt", "w") as f:
-    f.write(ascii_image)
-
-print(ascii_image)
-
 Sou um estudante do 2ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118
 
-Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível
+Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível.
 
-He believes teaching is a two-way street—where both educator and students grow through engagement and exploration.
-
-His classroom fosters collaboration, innovation, and interactive learning 🌟. 
-
-He bridges the gap between the technical and the artistic, turning code into visually captivating experiences.
-
-A lifelong learner, he stays ahead of tech trends to ensure his students receive cutting-edge education. 
-
-With clarity and creativity, he transforms complexity into inspiration, redefining what it means to teach technology. 🚀
-
-Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
+Follow in Instagram "[@caioxyl]".
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/raul-porto-lopes-8a866954/">
+    <a href="">
         <img 
             alt="Linkedins" 
             title="Meu Linkedin" 
