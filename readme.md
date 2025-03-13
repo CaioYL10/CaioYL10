@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=CaioYL10+%F0%9F%AA%90;Seja+Bem+Vindo+!;Estudante+de+D.S;Sempre+aprendendo+novas+coisas%F0%9F%93%9A%F0%9F%9A%80" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=CaioYL10+%F0%9F%AA%90;Seja+Bem+Vindo+!;Estudante+de+D.S;Sempre+aprendendo+novas+coisas%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 # **`Estudante de Desenvolvimento de Sistemas`**
@@ -64,5 +64,4 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ainda+em+processo+de+aprendizagem+%F0%9F%93%9A;Em+breve+%E2%8F%B3)](https://git.io/typing-svg)
-
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Ainda+no+processo+de+aprendizagem+%F0%9F%93%9A;Em+breve+%E2%8F%B3)](https://git.io/typing-svg)
