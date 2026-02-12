@@ -3,13 +3,10 @@
 
 # **`Estudante de Desenvolvimento de Sistemas`**
 
-#### **📚 Sou um estudante do 2 ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118 📚**
+#### ** Sou um estudante do 2 ano do ensino médio e curso Desenvolvimento de Sistemas no Senai Santo André 118, A. Jacob Lafer...**
 
-#### 🚀 Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível 🚀
+#### Possuo facilidade em ambos os cursos e busco sempre a maior dedicação possível!
 
-
-<img src="https://i.imgur.com/aiKv1MR.jpeg" width="200px" />
-</div>
 
 
 ---
